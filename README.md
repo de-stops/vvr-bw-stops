@@ -14,7 +14,7 @@ The script produces CSV output in the following format:
 
 ```
 "stop_id","stop_name","stop_lon","stop_lat","stop_code"
-"8902292","Tuttlingen, Bürgerheim",8.8336454179,47.9847415448,"de:8327:2292"
+"8827005","Weiden (Kr Rottweil), Rößle",8.562585407,48.324987354300006,"de:8325:27005"
 ```
 
 # Usage
